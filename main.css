@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#wrapp{
+    width: 616px;
+    height: 616px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+div{
+    width:150px;
+    height: 150px;
+    float:left;
+    border: 2px solid black;
+    background-color: chocolate;
+
+    
+}
+
+img{
+    visibility: hidden;
+}
